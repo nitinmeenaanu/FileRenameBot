@@ -110,8 +110,8 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
                 ]
             ]
-        ),
-        reply_to_message_id=update.message_id
+        #),
+        #reply_to_message_id=update.message_id
     )
             return 
 
